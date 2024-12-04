@@ -1,5 +1,7 @@
 # Proyecto: Control Difuso de un Horno con CLIPS para las Galletas de la Abuela María 🍪
 
+Proyecto realizado por Darío Nievas y David Moreno 
+
 ## Descripción del Proyecto
 
 Este proyecto consiste en implementar un sistema experto basado en lógica difusa para controlar la temperatura de un horno. Se simula el proceso artesanal de la abuela María para hornear sus famosas galletas caseras, en el que ajusta manualmente la temperatura en función del índice cromático de las galletas. El objetivo es automatizar este proceso utilizando **CLIPS** y conjuntos difusos.
